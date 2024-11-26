@@ -1,2 +1,2 @@
-# CplusPlus-SchoolWork
-C++ repository to display an array of computer science topics such as Object-Oriented Programming, Algorithms, Data Structures, and Software Engineering Principles.
+# CplusPlus-Interative WordLadder Game
+C++ program which utulizes computer science topics such as Object-Oriented Programming, Algorithms, Data Structures,Linux commands, and Software Engineering Principles.
